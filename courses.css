@@ -1,0 +1,285 @@
+h1 {
+    color:white;
+    text-align: center;
+    font-size: 100px;
+    top: 50%;
+    left: 50%;
+    right: 50%;
+    margin: 0%;
+    padding: 0%;
+    position: absolute;   
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+body{
+    background-color: lime ;
+    background-image: 
+Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%) ,
+
+Linear-gradient(127deg, black, black 70.71%) ,
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+margin: 0%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+  }
+  li {
+    display: inline;
+    margin: 0;
+    text-align: center;
+    padding-left: 0%;
+      font-family: cursive;
+      text-decoration: none;
+      
+}
+  form {
+    text-align: center;
+    color:white;
+
+}
+img{
+    width:100%;
+
+}
+.header-menu{
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    align-items: center;
+}
+.navbar{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 700px;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    font-size: 50px;
+    width: 100%;
+    z-index: 99;
+}
+.logo{
+    display: flex;
+    width: 60px;
+    height: 40px;
+}
+.link{
+    text-decoration: none;
+    color: #fff;
+    font-size: 50px;
+}
+.bground{
+    width: 100%;
+    height: 650px;
+    padding: 50px;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+}
+.image2{
+    width: 20%;
+    height: 200px;
+    background-image: url(./res/Annotation\ 2019-07-16\ 172017.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+
+}
+.image3{
+    width: 20%;
+    height: 200px;
+    background-image: url(./res/Annotation\ 2019-07-16\ 172106.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+
+}
+.image4{
+    width: 20%;
+    height: 200px;
+    background-image: url(./res/Annotation\ 2019-07-16\ 172130.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+
+}
+.image5{
+    width: 20%;
+    height: 200px;
+    background-image: url(./res/Annotation\ 2019-07-17\ 171841.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+
+}
+.image6{
+    width: 20%;
+    height: 200px;
+    background-image: url(./res/Annotation\ 2019-07-17\ 171913.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+
+}
+.image7{
+    width: 20%;
+    height: 200px;
+    background-image: url(./res/Annotation\ 2019-07-17\ 171957.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+
+}
+.image8{
+    width: 20%;
+    height: 200px;
+    background-image: url(./res/Annotation\ 2019-07-17\ 172029.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+
+}
+.image9{
+    width: 20%;
+    height: 200px;
+    background-image: url(./res/Annotation\ 2019-07-17\ 172053.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+
+}
+.image10{
+    width: 20%;
+    height: 200px;
+    background-image: url(./res/Annotation\ 2019-07-17\ 172126.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+    box-sizing: border-box;
+
+}
+
+.bground-img{
+    display: none
+}
+.image2:hover .bground-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: #00000049
+}
+.image3:hover .bground-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: #00000049
+}
+.image4:hover .bground-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: #00000049
+}
+.image5:hover .bground-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: #00000049
+}
+.image6:hover .bground-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: #00000049
+}.image7:hover .bground-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: #00000049
+}
+.image8:hover .bground-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: #00000049
+}
+.image9:hover .bground-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: #00000049
+}
+.image10:hover .bground-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: #00000049
+}
+.coursesimage2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.coursesimage3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.coursesimage4{
+    display: flex;
+    justify-content: space-evenly;
+}
